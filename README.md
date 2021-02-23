@@ -1,0 +1,2 @@
+# Pokedex
+Tugas P@kedex
